@@ -2,13 +2,12 @@
 
 ### Quick Start
 
-- Install NodeJS LTS from [NodeJs Official Page](https://nodejs.org/en/?ref=horizon-documentation) (NOTE: Product only works with LTS version)
+- Install NodeJS LTS 
 
 Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/horizon-ui/chatgpt-ai-template.git
-```
+git clone
 
 Run in the terminal this command:
 
